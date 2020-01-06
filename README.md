@@ -1,4 +1,5 @@
-# custom cra-template for smilebots
+# custom cra-template for demo-shravan
+
 This is a custom template made from the official base template for Create React App.
 
 Getting Started – How to create a new app.
@@ -10,4 +11,4 @@ https://dev.to/pallymore/make-your-own-create-react-app-templates-feo
 
 To create a starter app using this template type
 
-```npx create-react-app PROJECT_NAME --template smilebots```
+`npx create-react-app PROJECT_NAME --template demo-shravan`

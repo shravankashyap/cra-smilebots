@@ -1,5 +1,4 @@
-
-Trial 3 of custom cra with v3.3.0
+Trial 3 of custom cra with v0.1.0
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
